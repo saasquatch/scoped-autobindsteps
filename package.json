@@ -1,6 +1,6 @@
 {
   "name": "@saasquatch/scoped-autobindsteps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A replacement for jest-cucumber's autoBindSteps that doesn't use global scope.",
   "source": "src/scoped-autobindsteps.ts",
   "main": "dist/scoped-autobindsteps.js",
@@ -10,7 +10,7 @@
     "test": "jest",
     "test-watch": "jest --watch"
   },
-  "author": "",
+  "author": "ReferralSaaSquatch.com, Inc.",
   "license": "MIT",
   "devDependencies": {
     "@jest/types": "^26.6.2",
